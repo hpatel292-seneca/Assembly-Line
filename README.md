@@ -12,4 +12,4 @@
 `Project.exe Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt`
 
 
-## Please read [project overview]([https://github.com/NishitShah18/Assembly-Line/tree/main/Project%20OverView](https://github.com/hpatel292-seneca/-Assembly-Line/tree/main/Project%20OverView)https://github.com/hpatel292-seneca/-Assembly-Line/tree/main/Project%20OverView).
+## Please read [project overview](https://github.com/hpatel292-seneca/-Assembly-Line/tree/main/Project%20OverView).
