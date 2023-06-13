@@ -1,0 +1,14 @@
+In line number 228 of your output:
+The output should be:
+002 | Bed             | 123461 |    0 | Queen size bed with headboard
+                             ^
+But your output is: 
+002 | Bed             | 123462 |    0 | Queen size bed with headboard
+                             ^
+
+Unmatched character details:
+The character in column 30 is supposed to be:
+  [1] ASCII code(49)
+but you printed
+  [2] ASCII code(50)
+
